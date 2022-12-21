@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "phone": "01234123123",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": "2",
+    "name": "Nazar Romaniv",
+    "phone": "01234123123",
+    "email": "nazar.romaniv@example.com"
+  },
+  {
+    "id": "3",
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "12345"
+  },
+  {
+    "id": "4",
+    "name": "Jane Doe",
+    "phone": "123",
+    "email": "example.com"
+  },
+  {
+    "id": "4",
+    "name": "Jane Dee",
+    "phone": "123",
+    "email": "example.com"
+  }
+]
