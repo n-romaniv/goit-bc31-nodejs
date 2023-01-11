@@ -17,7 +17,6 @@ app
   .use(morgan("combined"))
   .use(cors())
   .use(express.json())
-  .use(express.static("public"))
   .use(cookieParser())
   .use("/api", rootRouter)
   .use((error, req, res, next) => {
