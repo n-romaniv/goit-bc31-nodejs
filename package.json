@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "joi": "^17.7.0",
-    "mongodb": "^4.13.0"
-  },
-  "devDependencies": {
-    "dotenv": "^16.0.3"
-  }
-}
